@@ -1,0 +1,6 @@
+# TarzansHut
+An Implemating solving of the worlds known "Tarzan's Hut" Problem... 
+
+```
+Ahhhhhhh...ahh..ah..ah...ah...ahhhhhhhhh... 
+```
